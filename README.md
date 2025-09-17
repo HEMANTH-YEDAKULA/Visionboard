@@ -51,11 +51,4 @@ This project is being developed as part of a **final year major project** follow
 - Progress Forecasting (time-series prediction)  
 - Reminders & Notifications (Firebase – future scope)  
 
----
 
-## 🚀 Setup Instructions
-
-### Clone the Repository
-```bash
-git clone https://github.com/<your-username>/visionboard.git
-cd visionboard
